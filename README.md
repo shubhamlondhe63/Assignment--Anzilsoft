@@ -1,3 +1,22 @@
+Assignmen1 
+
+1. Create a page with 2 textboxes with labels as Number 1 and Number 2
+2. Multiple buttons
+Add
+Subtract 
+Multiplication
+Division
+3. When a user enters values in both text boxes and clicks on a particular button, the result should be displayed accordingly.
+
+
+
+  Assignment 2   
+
+1.  Create a page with 2 textboxes with labels as First Name and Last Name 
+2.  Add one Submit button
+3. Once a user enters a value in both the textboxes, hit submit. Display the FIrst name and Last Name in the table
+4. The previously entered values should be retained in the display table
+5. Each entry should be added as a new row
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
